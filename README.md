@@ -13,7 +13,7 @@ I'm continuously learning, improving my technical skills, and gaining practical 
 - 🤝 I'm looking for help with software development best practices, test automation frameworks, and RPA.
 - 🌱 I'm currently learning Java, C#, JavaScript, Selenium WebDriver, Playwright, Cucumber, and Robotic Process Automation (RPA).
 - 💬 Ask me about software testing, Selenium, Playwright, API testing, and web development fundamentals.
-- 📫 How to reach me: mailto:neosaley@gmail.com
+- 📫 How to reach me: neosaley@gmail.com
 - 👨‍💻 All of my projects will be available on my [GitHub repositories](https://github.com/neo-sale).
 - 📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/neo-sale/).
 - ⚡ Fun fact: I enjoy solving problems, finding bugs, and turning repetitive tasks into automated workflows.
