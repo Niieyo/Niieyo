@@ -63,7 +63,7 @@ I'm continuously learning, improving my technical skills, and gaining practical 
 
 ## 🤝 Connect With Me
 
-- GitHub: [@neo-sale](https://github.com/neo-sale)
+- GitHub: [@neo-sale](https://github.com/Niieyo)
 - LinkedIn: [Neo Sale](https://www.linkedin.com/in/neo-sale/)
 
 I'm always open to learning opportunities, collaboration, and connecting with other professionals in technology.
