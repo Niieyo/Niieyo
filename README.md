@@ -60,11 +60,6 @@ I'm continuously learning, improving my technical skills, and gaining practical 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neo-sale&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-sale&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=neo-sale&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
